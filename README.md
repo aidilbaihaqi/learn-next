@@ -14,5 +14,5 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learning Journey (what i've learned)
 <b>Installation</b> : Typescript, ESLint, TailwindCSS, turbopack, alias etc <br>
-<b>Basic Next JS</b> : Folder Structure, Components, Import
+<b>Basic Next JS</b> : Folder Structure, Components, Import <br>
 <b>Routing</b> : (Simple, Nested, Dynamic) Routing, Params
