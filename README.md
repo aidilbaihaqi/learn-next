@@ -13,5 +13,5 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learning Journey (what i've learned)
-Installation : Typescript, ESLint, TailwindCSS, turbopack, alias etc
+Installation : Typescript, ESLint, TailwindCSS, turbopack, alias etc <br>
 Basic Next JS : Folder Structure, Components, Import, Routing (Simple, Nested, Dynamic), Params
